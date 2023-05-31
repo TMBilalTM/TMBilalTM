@@ -1,5 +1,8 @@
 # 💫 About Me:
  🫶🏼 I spend my free time on the internet<br> 🧑🏽‍💻 I like to mess with computer<br> 🎬 Watching movies makes me happy<br> 📈 i'm trying to make my career good
+   
+
+<img align="right" alt="Coding" width="400"src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 ## 🌐 Socials:
