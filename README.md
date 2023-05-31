@@ -2,7 +2,7 @@
  🫶🏼 I spend my free time on the internet<br> 🧑🏽‍💻 I like to mess with computer<br> 🎬 Watching movies makes me happy<br> 📈 i'm trying to make my career good
    
 
-<img align="right" alt="Coding" width="400"src= "https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 
 ## 🌐 Socials:
@@ -27,8 +27,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🧑🏽‍💻 Gif
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TMBilalTM&icon=5&color=6)](https://visitcount.itsvg.in)
