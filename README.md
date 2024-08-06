@@ -3,7 +3,9 @@
 <h3 align="center">A passionate developer in Cyprus interested in database and other languages</h3>
 🔭 I’m currently working on Dark<br><br>🤖 My website https://tmbilaltm.vercel.app/<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 How to reach me bilpcukbilo@gmail.com
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=TMBilalTM&icon=5&color=7)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FXXSQ7cSUV) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TMBilalTM) 
 
@@ -14,13 +16,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TMBilalTM&theme=discord_old_blurple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TMBilalTM&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TMBilalTM&icon=5&color=7)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
