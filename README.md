@@ -1,7 +1,7 @@
 # 💫 About Me:
 <h3 align="center">I'm Bilal</h3>
 <h3 align="center">A passionate developer in Cyprus interested in database and other languages</h3>
-🔭 I’m currently working on Dark<br><br>🤖 My website https://tmbilaltm.vercel.app/<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 How to reach me bilpcukbilo@gmail.com
+🔭 I’m currently working on Dark<br><br>🤖 My website https://bilaltm.com/<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 How to reach me bilpcukbilo@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
