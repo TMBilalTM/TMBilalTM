@@ -22,8 +22,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
 
 ---
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-![snake gif](https://github.com/TMBilalTM/TMBilalTM/blob/output/github-contribution-grid-snake.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
