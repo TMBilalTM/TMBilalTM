@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bilal+Aksoy!;" />
 </h1>
 <h3 align="center">A passionate developer in Cyprus interested in database and other languages</h3>
-🔭 I’m currently working on Dark<br><br>🤖 My website https://bilaltm.com/<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 How to reach me bilpcukbilo@gmail.com
+🔭 I’m currently working on Dark<br><br>🤖 My website https://bilaltm.live/<br><br>👨‍💻 All of my projects are available at Github<br><br>📫 How to reach me bilpcukbilo@gmail.com
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
