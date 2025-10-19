@@ -1,91 +1,94 @@
-# 💫 About Me
+<!-- 🎨 Modern Developer Card Style GitHub README for Bilal Aksoy -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bilal+Aksoy!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Bilal+Aksoy!;+Welcome+to+my+Profile!" />
 </h1>
 
 <h3 align="center">
-  A passionate developer from Cyprus interested in databases and programming languages.
+  🌍 Developer from <b>Cyprus</b> 🇨🇾 <br>
+  💡 Passionate about <b>Databases</b>, <b>Web Development</b>, and <b>Automation</b>.
 </h3>
 
-🔭 I’m currently working on **KKTCOF/KıbrısEvler**  
-🤖 My website: [bilaltm.live](https://bilaltm.live)  
-👨‍💻 All of my projects are available on [GitHub](https://github.com/TMBilalTM)  
-📫 Reach me at **bilpcukbilo@gmail.com**
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on: **Dark Project**
+- 🌐 My website: [bilaltm.live](https://bilaltm.live)
+- 💬 Ask me about: **PHP, JS, SQL, Python, and Server Management**
+- 📫 Reach me: **bilpcukbilo@gmail.com**
+- ⚡ Fun fact: I love creating things that help others learn & automate tasks.
 
 ---
 
-## 🏆 GitHub Trophies
+### 🌐 Connect With Me
 
-![](https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)  
-[![](https://visitcount.itsvg.in/api?id=TMBilalTM&icon=5&color=7)](https://visitcount.itsvg.in)
-
----
-
-## 🌐 Socials
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FXXSQ7cSUV)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TMBilalTM)
-
----
-
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/alpine.js-%238BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<p align="center">
+  <a href="https://discord.gg/FXXSQ7cSUV" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="45" />
+  </a>
+  <a href="https://x.com/TMBilalTM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45" />
+  </a>
+  <a href="https://github.com/TMBilalTM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+  <a href="mailto:bilpcukbilo@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+### 🧠 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=TMBilalTM&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TMBilalTM&theme=discord_old_blurple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TMBilalTM&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=discord_old_blurple&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,php,py,java,cs,nodejs,mysql,postgres,sqlite,vercel,cloudflare,git,figma" />
+</p>
 
 ---
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/output/github-contribution-grid-snake.svg" />
-</div>
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=TMBilalTM&icon=5&color=7" alt="Profile Views"/>
+</p>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TMBilalTM&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMBilalTM&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMBilalTM&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 🚀 Top Contributed Repositories
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<h4 align="center">✨ Designed with care by <a href="https://github.com/TMBilalTM">Bilal Aksoy</a> ✨</h4>
+
+<!-- Created with ❤️ using GPRM and skillicons.dev -->
