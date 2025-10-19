@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: **Dark Project**
+- 🔭 Currently working on: **KKTCOF/KıbrısEvler**
 - 🌐 My website: [bilaltm.live](https://bilaltm.live)
 - 💬 Ask me about: **PHP, JS, SQL, Python, and Server Management**
 - 📫 Reach me: **bilpcukbilo@gmail.com**
@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TMBilalTM&icon=5&color=7" alt="Profile Views"/>
+<img src="https://visitcount.itsvg.in/api?id=TMBilalTM&label=Profile%20Views&color=7&icon=5&pretty=true" alt="Profile Views"/>
 </p>
 
 ---
