@@ -1,7 +1,11 @@
+<!-- 🎨 Animated SVG Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/main/banner.svg" alt="Bilal Aksoy — Developer from Cyprus" />
+</p>
+
+---
+
 <!-- 🎨 Modern Developer Card Style GitHub README for Bilal Aksoy -->
-
-
-
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Bilal+Aksoy!;+Welcome+to+my+Profile!" />
@@ -16,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: **KKTCOF/KıbrısEvler**
+- 🔭 Currently working on: **KKTCOF / KıbrısEvler**
 - 🌐 My website: [bilaltm.live](https://bilaltm.live)
 - 💬 Ask me about: **PHP, JS, SQL, Python, and Server Management**
 - 📫 Reach me: **bilpcukbilo@gmail.com**
@@ -58,7 +62,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TMBilalTM&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=TMBilalTM&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -89,6 +93,39 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
+
+---
+
+### 💼 Featured Projects
+
+<div align="center">
+
+  <!-- Dark -->
+  <a href="https://github.com/TMBilalTM/Dark">
+    <img src="https://img.shields.io/badge/Dark-Open%20Source-6f6aff?style=for-the-badge" alt="Dark Project"/>
+  </a>
+  <br/>
+  <sub>Modern web app • Auth • API • DB • Deployment</sub>
+
+  <br/><br/>
+
+  <!-- Traccy -->
+  <a href="https://github.com/TMBilalTM/Traccy">
+    <img src="https://img.shields.io/badge/Traccy-Company%20Management-b7b2ff?style=for-the-badge" alt="Traccy"/>
+  </a>
+  <br/>
+  <sub>Stock / Invoice / Employee • PHP (PDO) + MySQL • Light/Dark UI</sub>
+
+  <br/><br/>
+
+  <!-- Daily Life Assistant -->
+  <a href="https://github.com/TMBilalTM/DailyLifeAssistant">
+    <img src="https://img.shields.io/badge/Daily%20Life%20Assistant-Next.js%20or%20Vue-8a85ff?style=for-the-badge" alt="Daily Life Assistant"/>
+  </a>
+  <br/>
+  <sub>Weather • Traffic • Food • Motivation • Music – Personalized feed</sub>
+
+</div>
 
 ---
 
