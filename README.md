@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=TMBilalTM&label=Profile%20Views&color=7&icon=5&pretty=true" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=TMBilalTM&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
