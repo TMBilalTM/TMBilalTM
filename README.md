@@ -32,10 +32,9 @@
 ### 🌐 Connect With Me
 
 <p align="center">
- [ <a href="https://discord.gg/FXXSQ7cSUV" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" />
-  </a>](https://discord.com/users/603868522195714049
-)
+<a href="https://discord.com/users/603868522195714049" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=discord" height="45" />
+</a>
   <a href="https://x.com/TMBilalTM" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="45" />
   </a>
