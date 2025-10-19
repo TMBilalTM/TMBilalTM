@@ -96,38 +96,6 @@
 
 ---
 
-### 💼 Featured Projects
-
-<div align="center">
-
-  <!-- Dark -->
-  <a href="https://github.com/TMBilalTM/Dark">
-    <img src="https://img.shields.io/badge/Dark-Open%20Source-6f6aff?style=for-the-badge" alt="Dark Project"/>
-  </a>
-  <br/>
-  <sub>Modern web app • Auth • API • DB • Deployment</sub>
-
-  <br/><br/>
-
-  <!-- Traccy -->
-  <a href="https://github.com/TMBilalTM/Traccy">
-    <img src="https://img.shields.io/badge/Traccy-Company%20Management-b7b2ff?style=for-the-badge" alt="Traccy"/>
-  </a>
-  <br/>
-  <sub>Stock / Invoice / Employee • PHP (PDO) + MySQL • Light/Dark UI</sub>
-
-  <br/><br/>
-
-  <!-- Daily Life Assistant -->
-  <a href="https://github.com/TMBilalTM/DailyLifeAssistant">
-    <img src="https://img.shields.io/badge/Daily%20Life%20Assistant-Next.js%20or%20Vue-8a85ff?style=for-the-badge" alt="Daily Life Assistant"/>
-  </a>
-  <br/>
-  <sub>Weather • Traffic • Food • Motivation • Music – Personalized feed</sub>
-
-</div>
-
----
 
 <h4 align="center">✨ Designed with care by <a href="https://github.com/TMBilalTM">Bilal Aksoy</a> ✨</h4>
 
