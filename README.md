@@ -1,7 +1,8 @@
 <!-- 🎨 Animated SVG Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/main/banner.svg" alt="Bilal Aksoy — Developer from Cyprus" />
+  <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/main/banner_smil.svg" alt="Bilal Aksoy — Developer from Cyprus" />
 </p>
+
 
 ---
 
