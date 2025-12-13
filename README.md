@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on: **KKTCOF / KıbrısEvler**
+- 🔭 Currently working on: **KKTCOF / DarkGiveaway**
 - 🌐 My website: [bilaltm.live](https://bilaltm.live)
 - 💬 Ask me about: **PHP, JS, SQL, Python, and Server Management**
 - 📫 Reach me: **bilpcukbilo@gmail.com**
