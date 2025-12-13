@@ -50,7 +50,7 @@
 
 ### 🧠 Tech Stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,php,laravel,py,java,kotlin,cs,nodejs,npm,gradle,prisma,postgres,mongodb,supabase,vercel,cloudflare,raspberrypi,arduino,flutter,dart,androidstudio,visualstudio,vscode,git,github,gitlab,figma,bootstrap,aws,azure,gcp,docker,firebase,wordpress,idea,codepen,discord" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,php,laravel,py,java,kotlin,cs,nodejs,npm,gradle,prisma,postgres,mongodb,supabase,vercel,cloudflare,raspberrypi,arduino,flutter,dart,androidstudio,visualstudio,vscode,git,github,gitlab,figma,bootstrap,,docker,firebase,wordpress,idea,codepen,discord" /> </p>
 
 ---
 
