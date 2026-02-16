@@ -1,168 +1,99 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- � BANNER                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/main/banner_smil.svg" alt="Bilal Aksoy — Developer from Cyprus" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ⌨️ TYPING ANIMATION                                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <a href="https://github.com/TMBilalTM">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7B68EE&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Hey+There!+I'm+Bilal+Aksoy;%F0%9F%92%A1+Building+%7C+Automating+%7C+Learning;%F0%9F%8C%8D+Based+in+Cyprus+%F0%9F%87%A8%F0%9F%87%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=a9b1d6&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Hey+There!+I'm+Bilal+Aksoy;Building+%7C+Automating+%7C+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TMBilalTM&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-  &nbsp;
-  <a href="https://github.com/TMBilalTM?tab=followers">
-    <img src="https://img.shields.io/github/followers/TMBilalTM?style=for-the-badge&color=7B68EE&labelColor=1a1b27&logo=github" alt="Followers"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/TMBilalTM?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/TMBilalTM?style=for-the-badge&color=7B68EE&labelColor=1a1b27&logo=github" alt="Stars"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=TMBilalTM&color=a9b1d6&style=flat-square&label=views" alt="Profile Views"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/TMBilalTM?style=flat-square&color=a9b1d6&labelColor=1a1b27&logo=github&label=followers" alt="Followers"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/TMBilalTM?style=flat-square&color=a9b1d6&labelColor=1a1b27&logo=github&label=stars" alt="Stars"/>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻 ABOUT ME                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
-<h2 align="center">👨‍💻 About Me</h2>
+### About Me
 
-<table align="center">
-<tr>
-<td>
+```yaml
+name: Bilal Aksoy
+location: Cyprus 🇨🇾
+website: bilaltm.live
+working_on: KKTCOF / DarkGiveaway
+ask_me_about: [PHP, JS, SQL, Python, Server Management]
+fun_fact: I love creating things that help others learn & automate tasks
+```
 
-🔭 Currently working on &nbsp; → &nbsp; **KKTCOF / DarkGiveaway**
+---
 
-🌐 My website &nbsp; → &nbsp; **[bilaltm.live](https://bilaltm.live)**
-
-💬 Ask me about &nbsp; → &nbsp; **PHP, JS, SQL, Python, Server Management**
-
-📫 Reach me &nbsp; → &nbsp; **bilpcukbilo@gmail.com**
-
-⚡ Fun fact &nbsp; → &nbsp; **I love creating things that help others learn & automate tasks**
-
-</td>
-
-</tr>
-</table>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌐 CONNECT                                                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">🌐 Connect With Me</h2>
+### Connect
 
 <p align="center">
-  <a href="https://discord.com/users/603868522195714049" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>&nbsp;
-  <a href="https://x.com/TMBilalTM" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>&nbsp;
-  <a href="https://github.com/TMBilalTM" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="mailto:bilpcukbilo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://bilaltm.live" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=safari&logoColor=white" alt="Website" />
-  </a>
+  <a href="https://discord.com/users/603868522195714049"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/TMBilalTM"><img src="https://img.shields.io/badge/X-000?style=flat-square&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/TMBilalTM"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="mailto:bilpcukbilo@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://bilaltm.live"><img src="https://img.shields.io/badge/Portfolio-a9b1d6?style=flat-square&logo=safari&logoColor=white" /></a>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🧠 TECH STACK                                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+### Tech Stack
 
-<h2 align="center">🧠 Tech Stack</h2>
-
-<h4 align="center">Languages</h4>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,py,java,kotlin,cs,dart&perline=8" />
 </p>
-
-<h4 align="center">Frontend & Frameworks</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,bootstrap,flutter&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,bootstrap,flutter,nodejs&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,prisma,postgres,mongodb,supabase,firebase,docker,vercel&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,vscode,idea,figma,raspberrypi&perline=8" />
 </p>
 
-<h4 align="center">Backend & Database</h4>
+---
+
+### Trophies
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,laravel,prisma,postgres,mongodb,supabase,firebase&perline=7" />
+  <img src="https://github-trophies.vercel.app/?username=TMBilalTM&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 </p>
 
-<h4 align="center">DevOps & Tools</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare,git,github,gitlab,npm,gradle&perline=8" />
-</p>
+---
 
-<h4 align="center">IDE & Hardware</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,figma,wordpress,raspberrypi,arduino&perline=8" />
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🏆 TROPHIES                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">🏆 GitHub Achievements</h2>
+### Stats
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=5&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📊 STATS                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TMBilalTM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&ring_color=7B68EE&icon_color=7B68EE" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TMBilalTM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&icon_color=a9b1d6&ring_color=a9b1d6&text_color=c0caf5&title_color=a9b1d6" height="165" />
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com/?user=TMBilalTM&theme=tokyonight&hide_border=true&background=00000000&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=TMBilalTM&theme=tokyonight&hide_border=true&background=00000000&ring=a9b1d6&fire=f7768e&currStreakLabel=a9b1d6&sideLabels=a9b1d6&dates=565f89" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMBilalTM&theme=tokyonight&hide_border=true&bg_color=00000000&layout=donut-vertical&langs_count=8" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMBilalTM&theme=tokyonight&hide_border=true&bg_color=00000000&layout=donut-vertical&langs_count=8&title_color=a9b1d6&text_color=c0caf5" height="200" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 📈 ACTIVITY GRAPH                                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">📈 Contribution Graph</h2>
+### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMBilalTM&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=7B68EE&line=7B68EE&point=FF6B6B" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TMBilalTM&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000&color=a9b1d6&line=a9b1d6&point=f7768e" width="95%" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🐍 CONTRIBUTION SNAKE                                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">🐍 Contribution Snake</h2>
+### Contribution Snake
 
 <p align="center">
   <picture>
@@ -172,25 +103,15 @@
   </picture>
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🚀 TOP REPOS                                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">🚀 Top Contributed Repositories</h2>
+### Top Repositories
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=TMBilalTM&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=00000000&title_color=a9b1d6&text_color=c0caf5" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 💬 RANDOM DEV QUOTE                                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h2 align="center">💬 Random Dev Quote</h2>
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
@@ -198,8 +119,6 @@
 
 <br />
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<h4 align="center">
-  ✨ Designed with care by <a href="https://github.com/TMBilalTM">Bilal Aksoy</a> ✨
-</h4>
+<p align="center">
+  <sub>Designed with care by <a href="https://github.com/TMBilalTM">Bilal Aksoy</a></sub>
+</p>
