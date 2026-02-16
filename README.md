@@ -57,7 +57,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 </p>
 
 <p align="center">
