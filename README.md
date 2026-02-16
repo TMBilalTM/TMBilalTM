@@ -23,14 +23,13 @@
 
 ### About Me
 
-```yaml
-name: Bilal Aksoy
-location: Cyprus 🇨🇾
-website: bilaltm.live
-working_on: KKTCOF / DarkGiveaway
-ask_me_about: [PHP, JS, SQL, Python, Server Management]
-fun_fact: I love creating things that help others learn & automate tasks
-```
+<table>
+<tr><td>🔭</td><td>Currently working on</td><td><a href="https://github.com/TMBilalTM"><b>KKTCOF / DarkGiveaway</b></a></td></tr>
+<tr><td>🌐</td><td>Website</td><td><a href="https://bilaltm.live"><b>bilaltm.live</b></a></td></tr>
+<tr><td>💬</td><td>Ask me about</td><td><b>PHP, JS, SQL, Python, Server Management</b></td></tr>
+<tr><td>📫</td><td>Reach me</td><td><a href="mailto:bilpcukbilo@gmail.com"><b>bilpcukbilo@gmail.com</b></a></td></tr>
+<tr><td>⚡</td><td>Fun fact</td><td>I love creating things that help others learn & automate tasks</td></tr>
+</table>
 
 ---
 
