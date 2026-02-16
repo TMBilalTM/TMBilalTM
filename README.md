@@ -57,7 +57,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=TMBilalTM&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"/>
 </p>
 
 <p align="center">
@@ -69,12 +69,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TMBilalTM&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMBilalTM&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TMBilalTM&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=TMBilalTM&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMBilalTM&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMBilalTM&theme=tokyonight&hide_border=true&layout=compact" height="160" />
 </p>
 
 ---
