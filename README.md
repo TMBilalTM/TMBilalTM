@@ -1,8 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED HEADER                                            -->
+<!-- � BANNER                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Bilal%20Aksoy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20from%20Cyprus%20%F0%9F%87%A8%F0%9F%87%BE&descAlignY=55&descSize=18" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/main/banner_smil.svg" alt="Bilal Aksoy — Developer from Cyprus" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ⌨️ TYPING ANIMATION                                           -->
@@ -49,9 +51,7 @@
 ⚡ Fun fact &nbsp; → &nbsp; **I love creating things that help others learn & automate tasks**
 
 </td>
-<td>
-  <img src="https://raw.githubusercontent.com/TMBilalTM/TMBilalTM/main/banner_smil.svg" width="320" alt="Bilal Aksoy" />
-</td>
+
 </tr>
 </table>
 
@@ -196,15 +196,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote" />
 </p>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- 🌊 ANIMATED FOOTER                                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <h4 align="center">
   ✨ Designed with care by <a href="https://github.com/TMBilalTM">Bilal Aksoy</a> ✨
