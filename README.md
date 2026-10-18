@@ -23,7 +23,7 @@
 
 ### `bilal@github ~ $ ./snake.sh`
 
-<img src="./contribution-snake.svg?v=food-routing" width="900" alt="Contribution snake with my character’s head" />
+<img src="./avatar-snake.svg" width="900" alt="Contribution snake with my character’s head" />
 
 <br />
 

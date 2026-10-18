@@ -217,7 +217,7 @@ def heatmap(data):
         visibility += ';'+visibility.split(';')[-1]
         body += f'<g transform="translate({53.5+c*15} {81.5+r*16})">{shape}<animateTransform attributeName="transform" type="translate" values="{positions}" keyTimes="{timing}" calcMode="linear" dur="{duration:.3f}s" repeatCount="indefinite"/><animate attributeName="opacity" values="{visibility}" keyTimes="{timing}" calcMode="discrete" dur="{duration:.3f}s" repeatCount="indefinite"/></g>'
     body += '</g>'+text(30,237,f'{data["total"]:,} public contributions',TEXT,12)
-    write('contribution-snake.svg',svg(900,263,'Contribution snake with Bilal’s character head',body))
+    write('avatar-snake.svg',svg(900,263,'Contribution snake with Bilal’s character head',body))
 
 
 if __name__ == '__main__':
