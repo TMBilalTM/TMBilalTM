@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./bilal-ascii.svg" width="350" alt="Animated ASCII portrait made from my supplied GIF" /></td>
+    <td valign="top"><img src="./bilal-ascii.svg?v=2" width="350" alt="Animated ASCII portrait made from my supplied GIF" /></td>
     <td valign="top"><img src="./info-card.svg" width="550" alt="Bilal Aksoy — PHP, JavaScript, SQL, Python; KKTCOF and DarkGiveaway; server management" /></td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
 
 ### `bilal@github ~ $ ./contributions.sh`
 
-<img src="./contrib-heatmap.svg" width="900" alt="My real GitHub contribution calendar, updated daily" />
+<img src="./contrib-heatmap.svg?v=2" width="900" alt="My real GitHub contribution calendar, updated daily" />
 
 <br />
 
