@@ -6,7 +6,7 @@
 
 **Hi, I'm Bilal Aksoy.** A developer from Cyprus who enjoys building useful things.
 
-[Portfolio](https://bilaltm.live) · [Discord](https://discord.com/users/603868522195714049) · [X](https://x.com/TMBilalTM) · [Email](mailto:bilpcukbilo@gmail.com)
+[Portfolio](https://bilaltm.tech) · [Discord](https://discord.com/users/603868522195714049) · [X](https://x.com/TMBilalTM) · [Email](mailto:bilpcukbilo@gmail.com)
 
 <br />
 
@@ -14,16 +14,16 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./bilal-ascii.svg?v=2" width="350" alt="Animated ASCII portrait made from my supplied GIF" /></td>
-    <td valign="top"><img src="./info-card.svg" width="550" alt="Bilal Aksoy — PHP, JavaScript, SQL, Python; KKTCOF and DarkGiveaway; server management" /></td>
+    <td valign="top"><img src="./bilal-ascii.svg?v=3" width="350" alt="Animated ASCII portrait made from my supplied GIF" /></td>
+    <td valign="top"><img src="./info-card.svg?v=3" width="550" alt="Bilal Aksoy — PHP, JavaScript, SQL, Python; KKTCOF and DarkGiveaway; server management" /></td>
   </tr>
 </table>
 
 <br />
 
-### `bilal@github ~ $ ./contributions.sh`
+### `bilal@github ~ $ ./snake.sh`
 
-<img src="./contrib-heatmap.svg?v=2" width="900" alt="My real GitHub contribution calendar, updated daily" />
+<img src="./contribution-snake.svg" width="900" alt="Contribution snake with my character’s head" />
 
 <br />
 
@@ -44,6 +44,12 @@
 
 <br />
 
+### `bilal@github ~ $ ls ./trophies`
+
+<img src="https://github-trophies.vercel.app/?username=TMBilalTM&amp;theme=gitdimmed&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=5" width="850" alt="GitHub trophies" />
+
+<br />
+
 <details>
 <summary>More about me &amp; contact</summary>
 <br />
@@ -52,14 +58,12 @@
 
 Currently working on **KKTCOF / DarkGiveaway**. Ask me about **PHP, JavaScript, SQL, Python, and server management**. I enjoy creating things that help others learn and automate tasks.
 
-Website: [bilaltm.live](https://bilaltm.live) · Email: [bilpcukbilo@gmail.com](mailto:bilpcukbilo@gmail.com)
+Website: [bilaltm.tech](https://bilaltm.tech) · Email: [bilpcukbilo@gmail.com](mailto:bilpcukbilo@gmail.com)
 
 </details>
 
 <br />
 
-<sub>Built with curiosity · Animated SVGs live in this repository · Contribution data refreshes daily</sub>
+
 
 </div>
-
-<!-- Terminal layout inspired by https://www.avivashishta.com/blog/build-animated-github-profile-readme -->

@@ -40,11 +40,9 @@ def card():
     body += text(27, 87, '$ neofetch --about bilal', BLUE, 15)
     body += text(27, 125, 'BILAL AKSOY', TEXT, 28, 'font-weight="700"')
     body += text(27, 150, 'Developer from Cyprus', MUTED, 14)
-    rows = [('Focus', 'Building / Automating / Learning'), ('Now', 'KKTCOF / DarkGiveaway'), ('Code', 'PHP / JS / SQL / Python'), ('Ops', 'Server Management'), ('Web', 'bilaltm.live'), ('Mail', 'bilpcukbilo@gmail.com')]
+    rows = [('Focus', 'Building / Automating / Learning'), ('Now', 'KKTCOF / DarkGiveaway'), ('Code', 'PHP / JS / SQL / Python'), ('Ops', 'Server Management'), ('Web', 'bilaltm.tech'), ('Mail', 'bilpcukbilo@gmail.com')]
     for i,(key,val) in enumerate(rows):
         body += f'<g class="reveal" style="animation-delay:{.18+i*.13}s">' + text(27,199+i*30,key,BLUE,13) + text(107,199+i*30,val,TEXT,13) + '</g>'
-    body += text(27, 399, 'Creating tools that help others', MUTED, 12)
-    body += text(27, 419, 'learn and automate everyday tasks.', MUTED, 12)
     write('info-card.svg', svg(550,450,'Bilal Aksoy — developer, projects and contact',body))
     body = text(30,43,'~/TMBilalTM',BLUE,16) + text(30,85,'BUILD. AUTOMATE. KEEP LEARNING.',TEXT,28,'font-weight="700"')
     body += text(30,115,'A little curiosity. A lot of things to build.',MUTED,14)
@@ -54,22 +52,22 @@ def card():
 
 def portrait():
     from PIL import Image
-    im = Image.open(ROOT/'bilaltm_foto.gif').convert('RGB').resize((74,58))
-    ramp = ' .:-=+*#%@'
-    body = text(22,30,'$ cat portrait.ascii',BLUE,12)
-    for y in range(58):
+    # Enlarge the subject and keep the light shirt readable on a dark canvas.
+    im = Image.open(ROOT/'bilaltm_foto.gif').convert('RGB').crop((65,130,535,600)).resize((74,55))
+    ramp = ' .:coO0#%@'
+    body = text(22,30,'$ whoami',BLUE,12)
+    for y in range(55):
         line = ''
         for x in range(74):
             r,g,b = im.getpixel((x,y))
-            # The supplied flat blue background is intentionally blank.
-            background = b > r*1.12 and g > r*1.1
+            background = abs(r-131)+abs(g-178)+abs(b-206) < 48
             light = (r*.299+g*.587+b*.114)/255
-            line += ' ' if background else ramp[max(2,min(9,int((1-light)*9)))]
+            line += ' ' if background else ramp[max(4,min(9,int((1-light)*9)))]
         clip = f'row{y}'
-        body += f'<clipPath id="{clip}"><rect x="18" y="{48+y*6.3}" width="314" height="8"><animate attributeName="width" from="0" to="314" dur=".25s" begin="{y*.025:.3f}s" fill="freeze"/></rect></clipPath>'
-        body += f'<text xml:space="preserve" x="18" y="{55+y*6.3}" font-size="7" letter-spacing="0" fill="{TEXT}" clip-path="url(#{clip})">{html.escape(line)}</text>'
-    body += text(22,430,'bilaltm_foto.gif → ASCII',MUTED,11)
-    write('bilal-ascii.svg', svg(350,450,'ASCII portrait generated from Bilal’s supplied GIF',body))
+        start, end = .02+y*.003, .04+y*.003
+        body += f'<clipPath id="{clip}"><rect x="19" y="{56+y*6.5}" width="312" height="10"><animate attributeName="width" values="0;0;312;312;0" keyTimes="0;{start:.3f};{end:.3f};0.94;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>'
+        body += f'<text xml:space="preserve" x="19" y="{64+y*6.5}" font-size="7.4" textLength="310" lengthAdjust="spacingAndGlyphs" fill="{TEXT}" clip-path="url(#{clip})">{html.escape(line)}</text>'
+    write('bilal-ascii.svg', svg(350,450,'Bilal Aksoy',body))
 
 
 class CalendarParser(HTMLParser):
@@ -132,29 +130,45 @@ def heatmap(data):
     start = dt.date.fromisoformat(days[0]['date'])
     start -= dt.timedelta(days=(start.weekday()+1)%7)
     palette = ['#17232e','#233f53','#365f7b','#588daf',BLUE]
-    body = text(30,36,'$ git log --contributions',BLUE,14)
-    body += text(870,36,'PUBLIC GITHUB ACTIVITY',MUTED,11,'text-anchor="end"')
-    body += text(25,99,'M',MUTED,10)+text(25,127,'W',MUTED,10)+text(25,155,'F',MUTED,10)
-    seen = set()
+    body = text(30,36,'$ snake --contributions',BLUE,14)
+    cells = []
     for day in days:
         date = dt.date.fromisoformat(day['date'])
-        offset = (date-start).days
-        week, weekday = divmod(offset,7)
-        x,y = 48+week*15,70+weekday*14
-        if date.day == 1 and date.month not in seen:
-            body += text(x,59,date.strftime('%b'),MUTED,10)
-            seen.add(date.month)
-        body += f'<rect class="reveal" style="animation-delay:{(week+weekday)*.014:.3f}s" x="{x}" y="{y}" width="11" height="10" rx="2" fill="{palette[min(4,day["level"])]}"><title>{day["date"]}: {day["count"]} contributions</title></rect>'
-    total = data['total']
-    active = sum(d['count'] > 0 for d in days)
-    best = max(d['count'] for d in days)
-    body += text(30,202,f'{total:,} contributions  /  {active} active days  /  {best} best day',TEXT,13)
-    body += text(30,230,f'Calendar through {data["through"]} · refreshed daily via GitHub Actions',MUTED,11)
-    body += text(741,230,'Less',MUTED,10)
-    for i,c in enumerate(palette):
-        body += f'<rect x="{772+i*14}" y="221" width="10" height="10" rx="2" fill="{c}"/>'
-    body += text(846,230,'More',MUTED,10)
-    write('contrib-heatmap.svg',svg(900,253,'Real GitHub contribution calendar for '+USER,body))
+        week, weekday = divmod((date-start).days,7)
+        x,y = 48+week*15,76+weekday*16
+        if date.day == 1:
+            body += text(x,63,date.strftime('%b'),MUTED,10)
+        cells.append((x+5.5,y+5.5,day))
+    # A continuous serpentine circuit covers every contribution cell, then
+    # returns around the outside. All segments follow the same closed route.
+    columns = max(round((x-53.5)/15) for x,y,d in cells)+1
+    route = [(53.5+col*15,81.5+row*16) for row in range(7) for col in (range(columns) if row%2==0 else range(columns-1,-1,-1))]
+    route += [(route[-1][0],198),(35,198),(35,81.5),route[0]]
+    # Parameterize by distance so the return around the border has equal speed.
+    import math
+    lengths = [0.0]
+    for p,q in zip(route,route[1:]):
+        lengths.append(lengths[-1]+math.dist(p,q))
+    times = [v/lengths[-1] for v in lengths]
+    duration = 42
+    for x,y,day in cells:
+        phase = next(i for i,p in enumerate(route) if p==(x,y))
+        t = times[phase]
+        base = palette[min(4,day['level'])]
+        anim = ''
+        if day['level'] and .002 < t < .98:
+            anim = f'<animate attributeName="fill" values="{base};{base};{palette[0]};{palette[0]};{base}" keyTimes="0;{max(.0001,t-.001):.5f};{t:.5f};0.985;1" dur="{duration}s" repeatCount="indefinite"/>'
+        body += f'<rect x="{x-5.5}" y="{y-5.5}" width="11" height="11" rx="2" fill="{base}"><title>{day["date"]}: {day["count"]} contributions</title>{anim}</rect>'
+    positions = ';'.join(f'{x} {y}' for x,y in route)
+    timing = ';'.join(f'{t:.7f}' for t in times)
+    origin = f'translate({route[0][0]} {route[0][1]})'
+    for i in range(9,0,-1):
+        body += f'<g transform="{origin}"><rect x="-5" y="-5" width="10" height="10" rx="3" fill="{BLUE}" opacity="{1-i*.065:.2f}"/><animateTransform attributeName="transform" type="translate" values="{positions}" keyTimes="{timing}" calcMode="linear" dur="{duration}s" begin="{i*.10}s" repeatCount="indefinite"/></g>'
+    # Vector version of the supplied character's peach head and two black eyes.
+    # Self-contained paths work inside GitHub SVG images without external assets.
+    body += f'<g transform="{origin}"><path d="M-8 0 C-8-6 -5-9 0-9 C6-9 9-5 9 0 C9 6 5 9 0 9 C-6 9-8 6-8 0Z" fill="#ffc787" stroke="{BG}" stroke-width="1.4"/><ellipse cx="-2.8" cy="-1" rx=".7" ry="1.25" fill="#080808"/><ellipse cx="3" cy="-1" rx=".7" ry="1.25" fill="#080808"/><animateTransform attributeName="transform" type="translate" values="{positions}" keyTimes="{timing}" calcMode="linear" dur="{duration}s" repeatCount="indefinite"/></g>'
+    body += text(30,237,f'{data["total"]:,} public contributions',TEXT,12)
+    write('contribution-snake.svg',svg(900,263,'Contribution snake with Bilal’s character head',body))
 
 
 if __name__ == '__main__':
