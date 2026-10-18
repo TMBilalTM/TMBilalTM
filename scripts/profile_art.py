@@ -64,7 +64,7 @@ def portrait():
             # The supplied flat blue background is intentionally blank.
             background = b > r*1.12 and g > r*1.1
             light = (r*.299+g*.587+b*.114)/255
-            line += ' ' if background else ramp[min(9,int((1-light)*9))]
+            line += ' ' if background else ramp[max(2,min(9,int((1-light)*9)))]
         clip = f'row{y}'
         body += f'<clipPath id="{clip}"><rect x="18" y="{48+y*6.3}" width="314" height="8"><animate attributeName="width" from="0" to="314" dur=".25s" begin="{y*.025:.3f}s" fill="freeze"/></rect></clipPath>'
         body += f'<text xml:space="preserve" x="18" y="{55+y*6.3}" font-size="7" letter-spacing="0" fill="{TEXT}" clip-path="url(#{clip})">{html.escape(line)}</text>'
@@ -141,7 +141,7 @@ def heatmap(data):
         offset = (date-start).days
         week, weekday = divmod(offset,7)
         x,y = 48+week*15,70+weekday*14
-        if date.month not in seen:
+        if date.day == 1 and date.month not in seen:
             body += text(x,59,date.strftime('%b'),MUTED,10)
             seen.add(date.month)
         body += f'<rect class="reveal" style="animation-delay:{(week+weekday)*.014:.3f}s" x="{x}" y="{y}" width="11" height="10" rx="2" fill="{palette[min(4,day["level"])]}"><title>{day["date"]}: {day["count"]} contributions</title></rect>'
