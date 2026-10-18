@@ -20,9 +20,11 @@ BG, PANEL, BORDER, TEXT, MUTED, BLUE = '#0d1117', '#111923', '#263646', '#e6edf3
 
 
 def svg(width, height, title, body):
+    ownership = f'<metadata id="ownership">Copyright 2026 Bilal Aksoy (TMBilalTM). All rights reserved. Original: https://github.com/TMBilalTM/TMBilalTM . See LICENSE.</metadata>'
+    signature = f'<text x="{width-18}" y="{height-14}" fill="{MUTED}" font-size="9" text-anchor="end">© Bilal Aksoy · TMBilalTM</text>'
     return f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-label="{html.escape(title, quote=True)}">
 <title>{html.escape(title)}</title><style>text{{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}}.reveal{{animation:in .55s both}}@keyframes in{{from{{opacity:0;transform:translateY(5px)}}to{{opacity:1;transform:translateY(0)}}}}@media(prefers-reduced-motion:reduce){{.reveal{{animation:none}}}}</style>
-<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="16" fill="{BG}" stroke="{BORDER}"/>{body}</svg>'''
+{ownership}<rect x="1" y="1" width="{width-2}" height="{height-2}" rx="16" fill="{BG}" stroke="{BORDER}"/>{body}{signature}</svg>'''
 
 
 def text(x, y, value, color=TEXT, size=13, extra=''):

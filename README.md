@@ -64,4 +64,6 @@ Website: [bilaltm.tech](https://bilaltm.tech) · Email: [bilpcukbilo@gmail.com](
 
 <br />
 
+<sub>© 2026 <a href="https://github.com/TMBilalTM">Bilal Aksoy</a> · <a href="./LICENSE">All rights reserved.</a></sub>
+
 </div>
