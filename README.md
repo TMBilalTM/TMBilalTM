@@ -14,8 +14,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="./bilal-ascii.svg?v=3" width="350" alt="Animated ASCII portrait made from my supplied GIF" /></td>
-    <td valign="top"><img src="./info-card.svg?v=3" width="550" alt="Bilal Aksoy — PHP, JavaScript, SQL, Python; KKTCOF and DarkGiveaway; server management" /></td>
+    <td valign="top"><img src="./portrait-loop.svg" width="350" alt="Animated ASCII portrait made from my supplied GIF" /></td>
+    <td valign="top"><img src="./profile-card.svg" width="550" alt="Bilal Aksoy — PHP, JavaScript, SQL, Python; KKTCOF and DarkGiveaway; server management" /></td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@
 
 ### `bilal@github ~ $ ./snake.sh`
 
-<img src="./contribution-snake.svg" width="900" alt="Contribution snake with my character’s head" />
+<img src="./contribution-snake.svg?v=food-routing" width="900" alt="Contribution snake with my character’s head" />
 
 <br />
 
@@ -46,7 +46,7 @@
 
 ### `bilal@github ~ $ ls ./trophies`
 
-<img src="https://github-trophies.vercel.app/?username=TMBilalTM&amp;theme=gitdimmed&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=5" width="850" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=TMBilalTM&amp;theme=gitdimmed&amp;no-frame=true&amp;no-bg=true&amp;margin-w=12&amp;margin-h=12&amp;column=5&amp;rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="850" alt="GitHub trophies" />
 
 <br />
 
@@ -63,7 +63,5 @@ Website: [bilaltm.tech](https://bilaltm.tech) · Email: [bilpcukbilo@gmail.com](
 </details>
 
 <br />
-
-
 
 </div>
