@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./terminal-header.svg" width="900" alt="TMBilalTM — Build. Automate. Keep learning." />
+<img src="./bilal-banner.png" width="900" alt="Hello, I’m Bilal — Building web products, software, automation and more." />
 
 <br />
-
-<img src="./bilaltm_foto.gif" width="150" alt="Bilal’s animated character at a podium" />
 
 **Hi, I'm Bilal Aksoy.** A developer from Cyprus who enjoys building useful things.
 
@@ -47,8 +45,10 @@
 <br />
 
 <details>
-<summary>Plain-text profile &amp; contact</summary>
+<summary>More about me &amp; contact</summary>
 <br />
+
+<img src="./bilaltm_foto.gif" width="150" alt="Bilal’s original animated character" />
 
 Currently working on **KKTCOF / DarkGiveaway**. Ask me about **PHP, JavaScript, SQL, Python, and server management**. I enjoy creating things that help others learn and automate tasks.
 
